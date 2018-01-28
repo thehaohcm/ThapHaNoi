@@ -205,8 +205,10 @@ int main()
     int k;
     ThapHN(n,'A','C','B');
     gotoxy(2,23);
-    cout<<"Da chuyen xong";
-    gotoxy(2,24);
+    cout<<"Da chuyen xong"<<endl<<endl;
+    cout<<"==========================================================================="<<endl;
+    cout<<"\t\t\tCreated by Nguyen The Hao 2015";
+    gotoxy(2,28);
     system("pause");
     return 0;
 }
