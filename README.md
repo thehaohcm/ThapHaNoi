@@ -1,2 +1,2 @@
 # ThapHaNoi
-This is my assigment which I do when I was in university. The Ha Noi Tower in graphic written in C++. 
+This is my assignment which I do when I was in university. The "Tower of Hanoi" with graphic written in C++ language. 
